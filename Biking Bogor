@@ -1,1 +1,17 @@
-<h1>Hai... Saya gemar bersepeda... dan ini teks coba-coba</h1>
+<!DOCTYPE html>
+<html>
+
+  <head> 
+    <title>Bogor Cycling Community</title>
+  </head>
+
+  <body>
+    <p>Hai!,nama saya Dzaki dari 11-2</p>
+    <h>Bogor Cycling Community</h>
+  
+    <div>
+      <p> Ini website untuk sharing seputar sepeda dan spare parts sepeda</p>
+   </div>
+  
+  </body>
+</html>
