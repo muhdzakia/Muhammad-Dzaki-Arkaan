@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head> 
-  <title>Bogor Cycling Community</title>
-  <meta charset="utf-8"/>
-  <link rel="stylesheet" type="text/css" href="main.css">
+<head>
+	<title>Biking Bogor</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-    <p>Hai!,nama saya Dzaki dari 11-2</p>
-    <h1>Ini website untuk sharing seputar sepeda dan spare parts sepeda</h1>
-
+	<h1>Hai!, Nama saya Dzaki dari XI-2. Disini saya akan membuat website seputar kendaraan roda dua termasuk motor dan sepeda</h1>
 </body>
 </html>
